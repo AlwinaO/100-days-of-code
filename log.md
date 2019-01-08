@@ -9,22 +9,11 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 7, 2019 
+**Today's Progress**: Sinatra Final Project - Used tux to check seeded data, build (and mount) UsersController and build login view.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: I'm still learning how to use tux as it's helpful to make sure I seeded the database correctly but more importantly that the tables are set up properly when I add additional data and the models have the right associations. I also started building the users controller and set up RESTful routing for the login and signyp routes, as well as, build the login view. I checked everthing in the browser to make sure the routes are hitting the next in the controller. This mostly makes sense but sometimes I get confused with which verb/action to write. Work in progress...
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Conferences App](https://github.com/AlwinaO/conferences)
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
