@@ -16,7 +16,7 @@
 
 **Link(s) to work**: [Conferences App](https://github.com/AlwinaO/conferences)
 
-### Day 2: January 7, 2019
+### Day 2: January 8, 2019
 
 **Today's Progress**: Sinatra Final Project - Added `sysrandom` gem for session secret to Gemfile, enabled sessions/set session_secret in ApplicationController and build control flow in `get '/login'` route to find, authenticate and log in user.
 
