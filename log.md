@@ -19,6 +19,6 @@
 
 **Today's Progress**: Sinatra Final Project - Built Helper methods `logged_in?` and `current_user`; complete the signup page and set up the user's show page.
 
-**Thoughts:** Memoization - to limit the number of database calls; if the value is stored in @current_user then we don't have to query the database to find the user. Separation of concerns for each route; each route should only do one thing. Render from a `get` request. Redirect from a `post`, `patch`, `delete` request. Need the url to match the contents of the page.
+**Thoughts:** Memoization - to limit the number of database calls; if the value is stored in `@current_user` then we don't have to query the database to find the user. Separation of concerns for each route; each route should only do one thing. Render from a `get` request. Redirect from a `post`, `patch`, `delete` request. Need the url to match the contents of the page.
 
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
