@@ -22,3 +22,11 @@
 **Thoughts:** Memoization - to limit the number of database calls; if the value is stored in `@current_user` then we don't have to query the database to find the user. Separation of concerns for each route; each route should only do one thing. Render from a `get` request. Redirect from a `post`, `patch`, `delete` request. Need the url to match the contents of the page.
 
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
+
+### Day 4: January 10, 2019
+
+**Today's Progress**: Sinatra Final Project - Complete `login`, `signup` and `show` routes; add `logout` route; update the user's show page and test in `tux`.
+
+**Thoughts:** I see the need use `tux` to make sure anything I add to the database is persisted; I have to remember to I use `new` to `save` and if I use `create` I don't need to further persist the data. The video I'm following is helpful because I can see now where I made mistakes with my routes. Where I can use `raise params.inspect` to check `params` in the browser. Also, use `binding.pry` to check the contents of `params` and database entries. Repitition is key.
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
