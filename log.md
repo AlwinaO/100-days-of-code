@@ -30,3 +30,11 @@
 **Thoughts:** I see the need use `tux` to make sure anything I add to the database is persisted; I have to remember to I use `new` to `save` and if I use `create` I don't need to further persist the data. The video I'm following is helpful because I can see now where I made mistakes with my routes. Where I can use `raise params.inspect` to check `params` in the browser. Also, use `binding.pry` to check the contents of `params` and database entries. Repitition is key.
 
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
+
+### Day 5: January 11, 2019
+
+**Today's Progress**: Sinatra Final Project - Add links to the welcome page so the user can login or signup. Add navigation links to the layout page so the user can logout or view all the conferences. Add logic to the index route in the application controller to check if the current user is logged in. 
+
+**Thoughts:** Simple work today. Just checking that links work and adding functionality to the web app.
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
