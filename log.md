@@ -38,3 +38,23 @@
 **Thoughts:** Simple work today. Just checking that links work and adding functionality to the web app.
 
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
+
+### Day 6: January 12, 2019
+
+**Today's Progress**: Sinatra Final Project - Add `ConferencesController` route and mount in `config.ru`. Add link to create a new entry to `layout.erb`. Create new and show pages. Add routes in `ConferencesController` for `get /conferences/new`, `post /conferences`, as well as show and index routes. Build logic in `post /conferences` route for redirecting to welcome page if the user is not logged in and to make sure a user entered all the required fields.  
+
+**Thoughts:** Definitely struggled with the logic for creating a new conference. For some reason, when I create a new conference it goes back to the welcome page. But when I `raise params.inspect`, I can see the params I entered. To be continued...
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
+
+
+
+
+
+
+
+
+
+
+
+
