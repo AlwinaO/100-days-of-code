@@ -41,12 +41,19 @@
 
 ### Day 6: January 12, 2019
 
-**Today's Progress**: Sinatra Final Project - Add `ConferencesController` route and mount in `config.ru`. Add link to create a new entry to `layout.erb`. Create new and show pages. Add routes in `ConferencesController` for `get /conferences/new`, `post /conferences`, as well as show and index routes. Build logic in `post /conferences` route for redirecting to welcome page if the user is not logged in and to make sure a user entered all the required fields.  
+**Today's Progress**: Sinatra Final Project - Add `ConferencesController` and mount in `config.ru`. Add link to create a new entry to `layout.erb`. Create new and show pages. Add routes in `ConferencesController` for `get /conferences/new`, `post /conferences`, as well as show and index routes. Build logic in `post /conferences` route for redirecting to welcome page if the user is not logged in and to make sure a user entered all the required fields.  
 
 **Thoughts:** Definitely struggled with the logic for creating a new conference. For some reason, when I create a new conference it goes back to the welcome page. But when I `raise params.inspect`, I can see the params I entered. To be continued...
 
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
+### Day 7: January 13, 2019
+
+**Today's Progress**: Sinatra Final Project - Update `ConferencesController`. Update `index` and `show` pages to show all conferences or one conference, respectively. Update `post /conferences` to make sure a new entry is created, add code to find one conference in the `show` route and add code to find all conferences in the `index` route. Commented out the logic in `post /conferences` route for redirecting to welcome page because the new entry was not created although the user was logged in.  
+
+**Thoughts:** Still working on the logic for creating a new conference if a user is logged in. For some reason, when I create a new conference it goes back to the welcome page. So I commented out that logic and will create a new method to help with this validation. Without this validation, I'm able to create a new entry and persist to the database.
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
 
 
