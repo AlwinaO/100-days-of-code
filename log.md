@@ -55,6 +55,13 @@
 
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
+### Day 8: January 15, 2019
+
+**Today's Progress**: Sinatra Final Project - In the `ConferencesController` action, I added back the logic in `post /conferences` route for redirecting to welcome page because the new entry was not created although the user was logged in.  Not able to validate user login to create a new entry.
+
+**Thoughts:** Still working on the logic for creating a new conference if a user is logged in. For some reason, when I create a new conference it goes back to the welcome page. When I uncomment that logic I have the same problem. To be continued...
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
 
 
