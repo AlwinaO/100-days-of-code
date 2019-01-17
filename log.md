@@ -63,6 +63,14 @@
 
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
+### Day 9: January 16, 2019
+
+**Today's Progress**: Sinatra Final Project - No active coding today as I focused on learning more about User Authentication to change the user login logic.
+
+**Thoughts:** I found a few resources to help with understanding user authentication. It's starting to make sense and I need to process it before I add any more code. I'm not sure if I should add code and see what works or what. To be continued...
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
+
 
 
 
