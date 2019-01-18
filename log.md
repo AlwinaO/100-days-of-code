@@ -71,7 +71,13 @@
 
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
+### Day 10: January 17, 2019
 
+**Today's Progress**: Sinatra Final Project - I fixed my user login by adding `ENV ['SESSION_SECRET']` to my `config/environment.rb` file. 
+
+**Thoughts:** When I set the `session_secret` to the `ApplicationController`, added the `sysrandom` gem to the `Gemfile` and `bundle install`, I forgot to also add `ENV ['SESSION_SECRET']` to my `config/environment.rb` file. So every time I logged in a user who create a new entry, the app could not set session to the `current_user`. These were extra steps I added to my app to make the session secure but I didn't have all the pieces in play. Now I know.
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
 
 
