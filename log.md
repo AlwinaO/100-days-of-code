@@ -79,6 +79,15 @@
 
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
+### Day 11: January 18, 2019
+
+**Today's Progress**: Sinatra Final Project - Add links to edit/delete a conference. Add an edit form to edit a conference. Add and test edit/delete routes in controller. Build in logic to validate the current_user can edit a conference that the user created. 
+
+**Thoughts:** Every time I add a feature, link, etc., I should test it to make sure it works and/or goes where it should go. When things don't work, I can easily figure out where I went wrong when I'm missing a step.
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
+
+
 
 
 
