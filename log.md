@@ -87,6 +87,37 @@
 
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
+### Day 12: January 19, 2019
+
+**Today's Progress**: watched a workshop on test driven development in ruby and Rails with @RubyGuides. 
+
+Sinatra Final Project - update link to delete a conference. Add delete link to edit page. Build and test delete route in controller. Add p tags to conference name.
+
+**Thoughts:** Every time I add a feature, link, etc., I should test it to make sure it works and/or goes where it should go. When things don't work, I can easily figure out where I went wrong when I'm missing a step.
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
+
+### Day 13: January 20, 2019
+
+**Today's Progress**: Sinatra Final Project - protect edit/delete links with `authorized_to_edit?` helper method and add same to show view, figure out how to format the date of a conf (work in progress). Show nav bar if user is logged in, update redirect after deleting a conference. 
+
+**Thoughts:** More work on user_input validations and making sure unauthorized users are not changing conferences.
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
+
+### Day 14: January 22, 2019
+
+**Today's Progress**: Sinatra Final Project - Add sinatrat-flash gem and register in `ApplicationController`. Add flash messages to different routes and flash logic to `layout.erb`. Update routes with validation for empty strings and validate user login. Add `back` link to login and sign up pages so the user can go to the right page to login or sign up. Update description/license in readme. Update spec with completed tasks.
+
+**Thoughts:** Flash messages are added to controller actions that end in redirect. If they are added to render pages, then they will always show; flash messages are intended to last for one HTTP request. Also, when I added the gem `sinatra-flash`, I did not have to require the gem in my `ApplicationController` because it was loaded in `config/environment.rb`, which requires all gems through `bundler/setup`. (add link to sinatra-flash documentation and image of my code) 
+
+`require` will require any files I've added to my project, while `require_relative` requires a path to a file.
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
+
+
+
+
 
 
 
