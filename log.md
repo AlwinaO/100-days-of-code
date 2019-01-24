@@ -115,6 +115,14 @@ Sinatra Final Project - update link to delete a conference. Add delete link to e
 
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
+### Day 15: January 23, 2019
+
+**Today's Progress**: Sinatra Final Project - Add `flash[:errors]` to UsersControllers and layout.erb. Add a user's list of conferences the user added.
+
+**Thoughts:**  I need to re-work the code to add the user's conference list. 
+
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
 
 
