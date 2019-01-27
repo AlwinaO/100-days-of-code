@@ -130,9 +130,15 @@ Sinatra Final Project - update link to delete a conference. Add delete link to e
 
 **Thoughts:**  When I add updates to my code, I should re-run the server so I can see those changes reflected. I had updated the user's show page to include a list of the conferences they added and it was loading. Now when I login the user, the conference list is populated. I need to re-work the code in `layout.erb` to add the link to the user's conference list on the user's show page. I also need to work on formatting the date. I have to update my ruby version to 2.5.0 in order to install the `date` gem. I'll try to globally update the ruby version on my computer versus just my project's ruby version.
 
-
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
+### Day 18: January 27, 2019
+
+**Today's Progress**: Sinatra Final Project - completed my project. Did a work around for the date by changing the date to a string in my seed file. Now the user can add the date with slashes or dashes.
+
+**Thoughts:**  Glad to be done with this project. Will update log with link to blog post for full details.
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
 
 
