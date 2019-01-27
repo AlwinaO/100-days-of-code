@@ -124,6 +124,14 @@ Sinatra Final Project - update link to delete a conference. Add delete link to e
 
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
+### Day 17: January 26, 2019
+
+**Today's Progress**: Sinatra Final Project - update `flash[:errors]` and `flash[:messages]` to `UsersControllers` `users/login` action. Update the user model with ActiveRecord validations (`validates :name, :email, presence: true`  `validates :email, uniqueness: true`). The user's conference list works on the user's show page works. I also added a helper method to `redirect_if_not_logged_in`. Added additional `flash[:errors]` and `flash[:messages]` to the `ConferencesControllers`.
+
+**Thoughts:**  When I add updates to my code, I should re-run the server so I can see those changes reflected. I had updated the user's show page to include a list of the conferences they added and it was loading. Now when I login the user, the conference list is populated. I need to re-work the code in `layout.erb` to add the link to the user's conference list on the user's show page. I also need to work on formatting the date. I have to update my ruby version to 2.5.0 in order to install the `date` gem. I'll try to globally update the ruby version on my computer versus just my project's ruby version.
+
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
 
 
