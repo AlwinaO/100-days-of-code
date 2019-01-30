@@ -140,6 +140,24 @@ Sinatra Final Project - update link to delete a conference. Add delete link to e
 
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
+### Day 19: January 28, 2019
+
+**Today's Progress**: Sinatra Final Project - Include updates from recent commits.
+
+**Thoughts:**  Glad to be done with this project. Will update log with link to blog post for full details.
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
+
+### Day 20: January 29, 2019
+
+**Today's Progress**: Used Pramp for coding interview for the first time.
+
+**Thoughts:**  I need to practice coding with algorithms!
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
+
+
+
 
 
 
