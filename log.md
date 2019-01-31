@@ -160,7 +160,7 @@ Sinatra Final Project - update link to delete a conference. Add delete link to e
 
 **Today's Progress**: Sinatra Final Project - fix dates in seed file; remove duplicate Welcom, user! line in user's show page. Committed final changes to repo.  Record video walkthrough, explaining how the app works and some challenges I encountered. Added blog outline to Wordpress site.
 
-**Thoughts:**  Excited final project is just about done and looking forward to assessment.
+**Thoughts:**  Excited final project is just about done and looking forward to assessment. Video walkthrough: https://youtu.be/HIgFHaqZkYo
 
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
