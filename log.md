@@ -154,6 +154,14 @@ Sinatra Final Project - update link to delete a conference. Add delete link to e
 
 **Thoughts:**  I need to practice coding with algorithms!
 
+**Link to work:** www.pramp.com
+
+### Day 21: January 30, 2019
+
+**Today's Progress**: Sinatra Final Project - fix dates in seed file; remove duplicate Welcom, user! line in user's show page. Committed final changes to repo.  Record video walkthrough, explaining how the app works and some challenges I encountered. Added blog outline to Wordpress site.
+
+**Thoughts:**  Excited final project is just about done and looking forward to assessment.
+
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
 
