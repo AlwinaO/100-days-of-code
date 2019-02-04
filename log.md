@@ -158,11 +158,22 @@ Sinatra Final Project - update link to delete a conference. Add delete link to e
 
 ### Day 21: January 30, 2019
 
-**Today's Progress**: Sinatra Final Project - fix dates in seed file; remove duplicate Welcom, user! line in user's show page. Committed final changes to repo.  Record video walkthrough, explaining how the app works and some challenges I encountered. Added blog outline to Wordpress site.
+**Today's Progress**: Sinatra Final Project - fix dates in seed file; remove duplicate Welcome, user! line in user's show page. Committed final changes to repo.  Record video walkthrough, explaining how the app works and some challenges I encountered. Added blog outline to Wordpress site.
 
 **Thoughts:**  Excited final project is just about done and looking forward to assessment. Video walkthrough: https://youtu.be/HIgFHaqZkYo
 
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
+
+### Day 22-23: January 31, 2019 to February 3, 2019
+
+**Today's Progress**: Sinatra Final Project - Complete blog post. Add gif to readme and additional edits to readme. 
+
+**Thoughts:**  https://www.alwinaoyewoleturner.com/lets-build-a-sinatra-app-using-mvc-crud-and-restful-routing/
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
+
+
+
 
 
 
