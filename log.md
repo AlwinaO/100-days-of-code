@@ -172,7 +172,53 @@ Sinatra Final Project - update link to delete a conference. Add delete link to e
 
 **Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
 
+### Day 24: February 4, 2019
 
+**Today's Progress**: Reading data structures for Coding Interviews on Interview Cake 
+
+**Thoughts:** There are a lot of data structures.
+
+**Link to work:** (www.interviewcake.com)
+
+### Day 25: February 5, 2019
+
+**Today's Progress**: Sinatra Final Project - had assessment for final project.
+
+**Thoughts:** I have to review sessions/cookies, render/redirect, complete the Fwitter lab, request/response cycle. Be more confident in speaking about my code and working through my code. Follow up with section lead to review concepts.
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
+
+### Day 26: February 6, 2019
+
+**Today's Progress**: Sinatra Final Project - Reviewed Sinatra request/response cycle and routes; sessions and cookies lessons.
+
+**Thoughts:** Re-read the lessons on sessions/cookies and request/response cycle and routes. After re-reading after having gone through building my app, this is starting to make more sense and not as complicated.
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
+
+### Day 27: February 7, 2019
+
+**Today's Progress**: Sinatra Final Project - Participated in Sinatra project study group to review sessions, request/response, render/redirect; watch video on protecting edit/delete routes.
+
+**Thoughts:** In the study group, reviewed another student's code to go through the request/response cycle, when we render/redirect. Very helpful to look at someone else's code and help through the process of how the controller actions work.
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences)
+
+### Day 28: February 8, 2019
+
+**Today's Progress**: Sinatra Final Project - Worked with the section lead to refactor code in my project; pair programmed with a fellow student on the Fwitter lab.
+
+**Thoughts:** The section lead helped me to add another helper method `redirect_if_not_authorized_to_edit(conference)` into the patch route. We also discussed where each request takes a user as they move through the application. Worked on the Fwitter lab with anothe student to clear up some of the syntax issues and figuring out some of the failures I was getting in the lab.
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences); [Fwitter Lab](https://github.com/AlwinaO/sinatra-fwitter-group-project-v-000)
+
+### Day 29: February 9, 2019
+
+**Today's Progress**: Sinatra Final Project - Add refactored code to controller actions; complete Fwitter lab.
+
+**Thoughts:** Updated code in project by adding refactored code to delete and get edit page for conference actions. Also added helper methods to new, index, show controller actions so a user who is not logged in cannot view the those pages.
+
+**Link to work:** [Conferences App](https://github.com/AlwinaO/conferences); [Fwitter Lab](https://github.com/AlwinaO/sinatra-fwitter-group-project-v-000)
 
 
 
